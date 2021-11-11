@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there Welcome to my GitHub👋
 
-<!--
-**Ham80234/ham80234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### a little about me....
 
-Here are some ideas to get you started:
+I am a software engineer who graduated in may of 2020 at the height of the COVID-19 pandemic. I have been coding for years and have always had a certain fasination when it comes to technology and programming. I am always open to talk and hear about interesting idea people may have. Feel free to hit me up!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies 
+ - Python
+ - Javascript
+ - Java
+ - Cypress
+ - MySQL
+ - Postgres
+ - Typescript
+ - Jenkins 
+
+
