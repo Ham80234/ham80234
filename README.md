@@ -1,3 +1,7 @@
+[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=ham80234&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## Hi there Welcome to my GitHub👋
 
 ### a little about me....
